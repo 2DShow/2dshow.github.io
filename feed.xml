@@ -18,7 +18,7 @@
       <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
 
-    <itunes:image href="{{ site.podcast.artwork_path | absolute_url }}"/>
+    <itunes:image href="{{ site.podcast.artwork_path | absolute_url | replace: 'https', 'http' }}"/>
     <itunes:category text="{{ site.podcast.category }}">
       {% for subcategory in site.podcast.subcategories %}
       <itunes:category text="{{ subcategory }}"/>
@@ -36,7 +36,7 @@
       <itunes:author>{{ site.podcast.author }}</itunes:author>
       <itunes:subtitle>{{ post.summary }}</itunes:subtitle>
       <itunes:summary>{{ post.summary }}</itunes:summary>
-      <itunes:image href="{{ site.podcast.artwork_path | absolute_url }}"/>
+      <itunes:image href="{{ site.podcast.artwork_path | absolute_url | replace: 'https', 'http' }}"/>
 
       <enclosure length="{{ post.length }}" url="{{ post.mp3 }}" type="audio/mpeg"/>
       <guid>{{ post.url | absolute_url }}</guid>
