@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Your awesome title
-email: your-email@example.com
+email: itsdanya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://2dshow.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -29,6 +29,17 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Podcast
+podcast:
+  title: 2D Show
+  artwork_path: "/assets/artwork.png"
+  category: Technology
+  subtitle: Даня и Данила обсуждают продуктивность, технологии и многое другое.
+  summary: >
+    Даня и Данила обсуждают продуктивность, технологии и многое другое.
+  copyright: Copyright © 2017 2D Show
+  author: Dan Kim and Dan Shevluk
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
