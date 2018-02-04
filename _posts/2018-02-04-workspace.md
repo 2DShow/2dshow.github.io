@@ -16,7 +16,7 @@ length: 23223866
 
 Как обустроить рабочее место для продуктивной работы? Мебель, мониторы, пространство.
 
-# Shownotes
+## Shownotes
 
 - [Hours](https://www.hourstimetracking.com/)
 - [Рабочий стул КУЛЛАБЕРГ](http://www.ikea.com/ru/ru/catalog/products/40373031/)
@@ -25,13 +25,8 @@ length: 23223866
 - [Очки для горизонтального просмотра](https://www.amazon.com/Horizontal-Glasses-Watching-Definition-Spectacles/dp/B00RGGJLAQ)
 - [Кресло PewDiePie](https://youtu.be/5atVDycaXWM?t=3m43s)
 
-## Chapters
+## Follow Us
 
-- Follow-up про Hours – 00:18
-- Как обустроить рабочее место дома? – 4:18
-- Стулья – 6:20
-- Столы – 8:40
-- Стоячее рабочее место 10:15
-- Зонирование пространства – 14:34
-- Работа с внешним монитором – 18:07
-- Идеальное рабочее место – 23:30
+- [@2dshowfm](https://twitter.com/2dshowfm)
+- [@danshevluk](https://twitter.com/danshevluk)
+- [@dankimio](https://twitter.com/dankimio)
