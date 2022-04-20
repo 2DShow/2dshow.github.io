@@ -18,7 +18,7 @@ email: itsdanya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Даня и Данила обсуждают продуктивность, технологии и многое другое.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://2dshow.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://2dshow.dan.kim" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 2dshowfm
 
 # Build settings
