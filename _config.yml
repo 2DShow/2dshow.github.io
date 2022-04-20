@@ -23,7 +23,7 @@ twitter_username: 2dshowfm
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
