@@ -22,7 +22,6 @@ url: "https://2dshow.com" # the base hostname & protocol for your site, e.g. htt
 twitter_username: 2dshowfm
 
 # Build settings
-markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
